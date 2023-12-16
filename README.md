@@ -1,0 +1,1 @@
+C:\Users\akmar\Documents\[1] Python for MLDS\envs>test_env\Scripts\activate
